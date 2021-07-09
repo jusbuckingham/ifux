@@ -1,6 +1,1 @@
-# jusbuckingham.com
-# jusmedia
-# jusmedia
-# jusmedia
-# jusmedia
-# jusmedia
+This is the web app for jusmedia.
