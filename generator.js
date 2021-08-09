@@ -6,27 +6,27 @@ function myGenerator() {
 // Art, Business & Technology link array variables 
 
 let art = [
-    "https://www.amazon.com/First-Bad-Man-Novel/dp/1439172579",
-    "https://youtu.be/_2zpl04ka4A",
-    "https://www.amazon.com/My-Struggle-Karl-Ove-Knausgaard/dp/0374534144?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-brave-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0374534144",
-    "https://www.amazon.com/White-Women-Helmut-Newton/dp/0930186052?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-brave-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0930186052",
-    "https://vimeo.com/71919803",
-    "https://www.amazon.com/Ayn-Rand-Box-Set/dp/0451947673/ref=sr_1_1?keywords=fountain+head+and+atlas+shrugged&qid=1564342987&s=books&sr=1-1",
-    "https://open.spotify.com/show/43srgsyieFX5zjq3XqiQmT?si=BsHmRBEDQrCm7QJjibtfQg",
-    "https://www.amazon.com/Post-Office-Novel-Charles-Bukowski/dp/0061177571/ref=sr_1_1?keywords=bukowski+post+office&qid=1564359946&s=books&sr=1-1",
-    "http://mathworld.wolfram.com/",
-    "https://www.youtube.com/watch?v=QcMitpcmb7c",
-    "https://www.thebroad.org/",
-    "https://www.youtube.com/watch?v=8EqDPBGv12M",
-    "https://archillect.com/",
-    "https://music.apple.com/us/playlist/coundrum-world-bangers/pl.u-GgA55mRcZ8GxDm",
-    "https://music.apple.com/us/album/jesus-is-king/1484936940",
-    "https://www.amazon.com/Gospel-According-Green-ROBERT-MUGGE/dp/B07D24T2TY/ref=sr_1_1?keywords=al+green&qid=1572108302&s=instant-video&sr=1-1",
-    "https://youtu.be/QuOCvKvrwI8",
-    "https://www.youtube.com/watch?v=HIAz_FU8xho",
-    "https://www.youtube.com/watch?v=t568Nd7k_Yk",
-    "https://www.youtube.com/watch?v=nc4pfmbCgdY",
-    "https://music.apple.com/us/album/superbloom/1472817938"
+    "https://www.youtube.com/watch?v=B_ymY0xG0LI",
+    "https://www.youtube.com/watch?v=zIKK-q9Gqk8",
+    "https://www.youtube.com/watch?v=d5XTDmm0KUQ",
+    "https://www.radiohead.com/",
+    "https://www.youtube.com/watch?v=ju2Lowqknv8",
+    "https://www.youtube.com/watch?v=ISHPumshGgA",
+    "http://www.openculture.com/philosophy_free_courses",
+    "https://www.youtube.com/watch?v=cozdRqf2H7o",
+    "https://www.youtube.com/watch?v=dj08WrdVt9E",
+    "https://www.youtube.com/watch?v=S5KwSWWwKxk",
+    "http://www.theoperadatabase.com/operaindex.html",
+    "https://www.netflix.com/title/80217478",
+    "https://kinfolk.com/",
+    "https://hassan1.bandcamp.com/album/getting-2-old-4-this",
+    "https://www.youtube.com/watch?v=t-j0Ey2O4HU",
+    "https://www.youtube.com/watch?v=-QbpgLK-P_c",
+    "https://www.youtube.com/watch?v=Sq8noTsKSwg",
+    "https://www.youtube.com/watch?v=AwhBTrzzqeg",
+    "https://hassan1.bandcamp.com/album/getting-2-old-4-this",
+    "https://www.youtube.com/watch?v=laamYjSwcHI",
+    "https://www.youtube.com/watch?v=5MlVXco6cVw"
 
 ];
 
