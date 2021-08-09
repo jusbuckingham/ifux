@@ -1,6 +1,6 @@
 // a function to be called in the html file
 
-function myFunction() { 
+function myGenerator() { 
 
 
 // Art, Business & Technology link array variables 
