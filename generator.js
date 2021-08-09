@@ -1,4 +1,6 @@
-// select target on click
+// a function to be called in the html file
+
+function myFunction() { 
 
 
 // Art, Business & Technology link array variables 
@@ -103,4 +105,4 @@ function conundrumRand(randNumTo2) {
 
   // opens returned link in a new tab with new variable created
 
-window.open(conundrumRand(randNumTo2)[randNumTo20]);
+window.open(conundrumRand(randNumTo2)[randNumTo20])};
