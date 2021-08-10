@@ -2,7 +2,6 @@
 
 function myGenerator() { 
 
-
 // Art, Business & Technology link array variables 
 
 let art = [
@@ -56,27 +55,27 @@ let business = [
 ];
 
 let technology = [
-    "https://libra.org/en-US/white-paper/#introduction",
-    "https://www.codecademy.com/learn/introduction-to-blockchain",
-    "https://podcasts.apple.com/us/podcast/unconfirmed-insights-analysis-from-top-minds-in-crypto/id1347049808",
-    "https://www.hacksplaining.com/lessons",
-    "https://www.udemy.com/share/100ZfUB0UacVdSRHw=/?xref=E0UdcF5bRX0BSV82AT0GJVUWTx4dChQ%2BVFE=",
-    "https://brave.com/",
-    "https://podcasts.apple.com/us/podcast/software-engineering-daily/id1019576853",
-    "https://www.kaggle.com/",
-    "https://www.vice.com/en_us/article/d3naek/how-to-make-a-phone-farm",
-    "https://www.youtube.com/watch?v=bBC-nXj3Ng4",
-    "https://www.lynda.com/",
-    "https://www.youtube.com/watch?v=2izvSzQWYak",
-    "https://en.wikipedia.org/wiki/White_paper",
-    "https://jeffhuang.com/best_paper_awards.html",
-    "https://archive.org/details/apple-ii-ref-manual",
-    "https://deepai.org/",
-    "https://blog.lightning.engineering/posts/2019/08/15/routing-quide-1.html",
-    "https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg/videos",
-    "https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg",
-    "http://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf",
-    "https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg"
+    "https://youtu.be/Do5DkAlOyuY",
+    "https://progressivetooling.com/",
+    "https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/",
+    "https://en.wikipedia.org/wiki/.NET_Framework",
+    "https://www.youtube.com/watch?v=J8Eh7RqggsU",
+    "https://en.wikipedia.org/wiki/Receiver_operating_characteristic",
+    "https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9",
+    "https://en.wikipedia.org/wiki/Functional_programming",
+    "https://en.wikipedia.org/wiki/Lambda_calculus",
+    "https://en.wikipedia.org/wiki/Object-oriented_programming",
+    "https://www.freecodecamp.org/news/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08/",
+    "https://en.wikipedia.org/wiki/Strong_and_weak_typing",
+    "https://www.youtube.com/watch?v=q7oILIZVsiY",
+    "https://www.youtube.com/watch?v=bMjWdz_Hi_Q",
+    "https://github.com/NationalSecurityAgency/ghidra",
+    "https://en.wikipedia.org/wiki/Linked_list",
+    "https://en.wikipedia.org/wiki/Skip_list",
+    "https://en.wikipedia.org/wiki/Hash_table",
+    "https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm",
+    "https://en.wikipedia.org/wiki/Bitap_algorithm",
+    "https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=emb_title"
 
 ];
 
@@ -101,8 +100,8 @@ function conundrumRand(randNumTo2) {
     }
     return linkVar;
   }
-  console.log(conundrumRand(randNumTo2)[randNumTo20]);
+console.log(conundrumRand(randNumTo2)[randNumTo20]);
 
-  // opens returned link in a new tab with new variable created
+ // opens returned link in a new tab with new variable created
 
 window.open(conundrumRand(randNumTo2)[randNumTo20])};
