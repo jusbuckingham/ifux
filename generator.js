@@ -31,23 +31,6 @@ let art = [
 ];
 
 let business = [
-    "https://pdfs.semanticscholar.org/0375/379194a6f34b818962ea947bff153adf621c.pdf",
-    "https://www.amazon.com/Quantum-Economics-New-Science-Money/dp/1785783998/ref=sr_1_1?",keywords=quantum+economics&qid=1564336372&s=gateway&sr=8-1
-    "https://www.amazon.com/Naked-Economics-Undressing-Dismal-Science/dp/0393356493/ref=sr_1_1?"keywords=naked+economics&qid=1564336414&s=gateway&sr=8-1",
-    "https://www.youtube.com/watch?v=B9XGUpQZY38",
-    "https://www.youtube.com/watch?v=PHe0bXAIuk0",
-    "https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930",
-    "https://www.amazon.com/Economic-Thought-History-Heinz-Kurz/dp/0231172591",
-    "https://www.hulu.com/series/shark-tank-20ed5e79-3fba-4eda-8d84-ed6e33f9a019?cmp=7958&utm_source=bing&utm_medium=cpc&utm_campaign=BM%20Search%20TV%20Shows&utm_term=shark%20tank%20hulu&msclkid=cbd0a0c7874c17f44013fd437fb79372&gclid=CNP-lITk3-QCFU96gQodS2AGpA&gclsrc=ds",
-    "https://newrepublic.com/article/154944/boeing-737-max-investigation-indonesia-lion-air-ethiopian-airlines-managerial-revolution",
-    "https://www.amazon.com/Find-Fulfilling-Work-School-Life/dp/1250030692?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-brave-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1250030692",
-    "https://www.youtube.com/watch?v=6DlrqeWrczs",
-    "https://apps.apple.com/app/id281941097",
-    "https://www.youtube.com/watch?v=1g5EVQhD4ao",
-    "https://www.amazon.com/Hasbro-B7404-Risk-Game/dp/B01ALHAIWG/ref=sr_1_1?keywords=classic+risk+game&qid=1571092119&sr=8-1",
-    "https://www.youtube.com/watch?v=0WYAYjFhZHo",
-    "https://youtu.be/ihfG8qlhW04",
-    "https://www.youtube.com/watch?v=aozlwC3XwfY&list=PL8dPuuaLjXtNamNKW5qlS-nKgA0on7Qze",
     "https://www.youtube.com/watch?v=4aenIrIpNqQ",
     "https://www.youtube.com/watch?v=HZcXup7p5-8&list=PLxq_lXOUlvQAwaY_9K4ZFH9Xdar9WzCaL&index=37&t=0s",
     "https://www.youtube.com/watch?v=NrBbDnuV8Cw&list=LL1x_nY-5JUOwo9sAgvmQJ9Q&index=56&t=0s",
