@@ -1,8 +1,5 @@
-div.container3 {
-   height: 10em;
-   position: relative }              /* 1 */
-div.container3 p {
-   margin: 0;
-   position: absolute;               /* 2 */
-   top: 50%;                         /* 3 */
-   transform: translate(0, -50%) }   /* 4 */
+div {
+  width: 300px;
+  margin: auto;
+  border: 3px solid #4287f5;
+}
