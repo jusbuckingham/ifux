@@ -2,7 +2,7 @@
 
 function myGenerator() { 
 
-// Art, Business & Technology link array variables 
+// art, business & technology link array variables 
 
 let art = [
     "https://www.youtube.com/watch?v=B_ymY0xG0LI",
@@ -87,7 +87,7 @@ let randNumTo2 = 0 + Math.floor(Math.random() * 3);
 
 let randNumTo20 = 0 + Math.floor(Math.random() * 21);
 
-// Create a variable that uses the random number to assign to one of the link varibales & returns a link based on the randomized number and assigns it to a new variable
+// creates a variable that uses the random number to assign to one of the link varibales & returns a link based on the randomized number and assigns it to a new variable
 
 function conundrumRand(randNumTo2) {
     let linkVar;
