@@ -15,3 +15,10 @@ body {
 body {
   background: rgba(243, 8, 8, 0.3) /* Green background with 30% opacity */
 }
+
+body {
+  text-align: center;
+}
+form {
+  display: inline-block;
+}
