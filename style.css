@@ -1,6 +1,21 @@
+html, body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
 body {
   background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
 }
+
 hi {
   background: rgba(230, 93, 88, 0.384)
 }
