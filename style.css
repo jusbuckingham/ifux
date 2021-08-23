@@ -10,13 +10,7 @@ html {
 body {
   display: table-cell;
   vertical-align: middle;
-}
-
-body {
-  background-color: rgb(241, 17, 17)
-}
-
-body {
+  background-color: rgb(241, 17, 17);
   text-align: center;
 }
 
