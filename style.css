@@ -17,3 +17,6 @@ body {
 form {
   display: inline-block;
 }
+h1 {
+  font-family: 'Rubik Beastly', cursive;
+}
