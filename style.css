@@ -4,6 +4,7 @@ html, body {
 html {
   display: table;
   margin: auto;
+  font-family: 'Rubik Beastly', cursive;
 }
 body {
   display: table-cell;
@@ -13,7 +14,4 @@ body {
 }
 form {
   display: inline-block;
-}
-#h1 {
-  font-family: 'Rubik Beastly', cursive;
 }
