@@ -1,10 +1,10 @@
 html, body {
   height: 100%;
+  font-family: 'Rubik Beastly', cursive;
 }
 html {
   display: table;
   margin: auto;
-  font-family: 'Rubik Beastly', cursive;
 }
 body {
   display: table-cell;
