@@ -76,15 +76,12 @@ function myGenerator() {
   ];
 
   // returns a number 0-2 as a variable
-
   let randNumTo2 = 0 + Math.floor(Math.random() * 3);
 
   // returns a number 0-20 as a variable
-
   let randNumTo20 = 0 + Math.floor(Math.random() * 21);
 
   // creates a variable that uses the random number to assign to one of the link varibales & returns a link based on the randomized number and assigns it to a new variable
-
   function conundrumRand(randNumTo2) {
     let linkVar;
     if (randNumTo2 = 0) {
@@ -96,9 +93,8 @@ function myGenerator() {
     }
     return linkVar;
   }
-  console.log(conundrumRand(randNumTo2)[randNumTo20]);
 
   // opens returned link in a new tab with new variable created
-
   window.open(conundrumRand(randNumTo2)[randNumTo20])
+
 };
